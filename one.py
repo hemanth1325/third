@@ -6,3 +6,7 @@ print(num[1:5])
 print(num[0:8:2])
 
 print(num[1:9:2])
+
+a='sdfghjkl'
+for i in a:
+    print(i)
