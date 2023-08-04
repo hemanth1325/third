@@ -10,3 +10,5 @@ print(num[1:9:2])
 a='sdfghjkl'
 for i in a:
     print(i)
+
+print('uta')
